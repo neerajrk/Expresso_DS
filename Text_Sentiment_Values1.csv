@@ -1,0 +1,717 @@
+Question,Segment,text,sentiment,subjectivity,polarity
+What do you consider an influencer?,Mobile,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Mobile,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Mobile,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Mobile,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Web,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Web,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Web,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Web,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Gender,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Gender,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Gender,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Gender,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Gender,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Gender,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Gender,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Gender,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,University,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,University,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,University,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,University,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
+What do you consider an influencer?,Custom,a famous person,"Sentiment(polarity=0.5, subjectivity=1.0)",1.0,0.5
+What do you consider an influencer?,Custom,someone with a lot of social media followers,"Sentiment(polarity=0.03333333333333333, subjectivity=0.06666666666666667)",0.06666666666666667,0.03333333333333333
+What do you consider an influencer?,Custom,popular friends in your network,"Sentiment(polarity=0.6, subjectivity=0.9)",0.9,0.6
+What do you consider an influencer?,Custom,all of the above,"Sentiment(polarity=0.0, subjectivity=0.1)",0.1,0.0
